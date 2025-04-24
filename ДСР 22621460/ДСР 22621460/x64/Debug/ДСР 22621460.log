@@ -1,0 +1,414 @@
+﻿  Source.cpp
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(7,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(7,9): error C2146: syntax error: missing ';' before identifier 'fp'
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(8,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(8,14): error C2146: syntax error: missing ';' before identifier 'fname'
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(8,20): error C2059: syntax error: '='
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(14,2): error C2872: 'string': ambiguous symbol
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(8,7):
+      could be 'const int string'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\xstring(3353,19):
+      or       'std::string'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(14,9): error C3646: 'name': unknown override specifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(14,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(15,2): error C2872: 'string': ambiguous symbol
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(8,7):
+      could be 'const int string'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\xstring(3353,19):
+      or       'std::string'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(15,9): error C3646: 'type': unknown override specifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(15,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(16,2): error C2872: 'string': ambiguous symbol
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(8,7):
+      could be 'const int string'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\xstring(3353,19):
+      or       'std::string'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(16,9): error C3646: 'region': unknown override specifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(16,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(17,2): error C2872: 'string': ambiguous symbol
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(8,7):
+      could be 'const int string'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\xstring(3353,19):
+      or       'std::string'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(17,9): error C3646: 'izgled': unknown override specifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(17,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(22,2): error C2872: 'string': ambiguous symbol
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(8,7):
+      could be 'const int string'
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\xstring(3353,19):
+      or       'std::string'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(22,9): error C3646: 'status': unknown override specifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(22,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(114,19): error C2039: 'name': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(114,2): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(114,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(114,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(114,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(114,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(117,19): error C2039: 'type': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(117,2): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(117,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(117,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(117,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(117,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(120,19): error C2039: 'region': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(120,2): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(120,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(120,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(120,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(120,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(123,19): error C2039: 'izgled': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(123,2): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(123,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(123,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(123,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(123,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(138,19): error C2039: 'status': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(138,2): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(138,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(138,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(138,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(138,2):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(159,24): error C2039: 'name': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(159,4): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(159,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(159,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(159,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(159,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(161,24): error C2039: 'type': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(161,4): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(161,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(161,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(161,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(161,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(163,24): error C2039: 'region': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(163,4): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(163,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(163,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(163,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(163,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(165,24): error C2039: 'izgled': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(165,4): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(165,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(165,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(165,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(165,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(175,24): error C2039: 'status': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(175,4): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(175,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(175,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(175,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(175,4):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(187,40): error C2039: 'name': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(188,37): error C2039: 'type': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(189,39): error C2039: 'region': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(190,43): error C2039: 'izgled': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(195,61): error C2039: 'status': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(219,14): error C2039: 'status': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(238,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(249,2): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(249,10): error C2065: 'fname': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(250,6): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(259,21): error C2039: 'name': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(259,3): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(259,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(259,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(259,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(259,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(261,21): error C2039: 'type': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(261,3): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(261,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(261,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(261,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(261,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(263,21): error C2039: 'region': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(263,3): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(263,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(263,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(263,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(263,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(265,21): error C2039: 'izgled': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(265,3): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(265,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(265,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(265,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(265,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(275,21): error C2039: 'status': is not a member of 'imot'
+      C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(11,8):
+      see declaration of 'imot'
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(275,3): error C2672: 'getline': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(82,32):
+      could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(275,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(75,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(275,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(68,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(275,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 1 provided
+      C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.42.34433\include\string(25,32):
+      or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+          C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(275,3):
+          'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': expects 3 arguments - 1 provided
+  
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(276,3): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(278,2): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(282,2): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(282,10): error C2065: 'fname': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(283,6): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(287,2): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(288,9): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(289,2): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(290,2): error C2065: 'fp': undeclared identifier
+C:\Users\HP\Desktop\ДСР 22621460\Source.cpp(291,2): error C2065: 'fp': undeclared identifier
